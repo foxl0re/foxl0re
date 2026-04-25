@@ -6,8 +6,12 @@
 <img width="716" height="22" alt="IMG_8533" src="https://github.com/user-attachments/assets/01584847-2082-4ece-8e47-2ed5ddbf5d50" />
 
 
-<img width="736" height="724" alt="Untitled627_20260425131143" src="https://github.com/user-attachments/assets/7985c44c-4ed8-4b83-9461-e92e86a07103" />
+${\color{yellow}\textsf{oh , ashes ashes, dust to dust!}}$
+<img width="1200" height="1200" alt="IMG_8538" src="https://github.com/user-attachments/assets/4a82b5bb-23f0-4997-8c86-a6dafdad63fc" />
+${\color{yellow}\textsf{the devil's after both of us!}}$
 
+
+<img width="716" height="22" alt="IMG_8533" src="https://github.com/user-attachments/assets/9aed3fd9-2fe0-49c8-b71f-ca1f78bbd70c" />
 
 <!--
 **supremeleaderrrr/supremeleaderrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
