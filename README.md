@@ -13,6 +13,8 @@ ${\color{yellow}\textsf{the devil's after both of us!}}$
 
 [<img width="20" height="20" alt="IMG_8539" src="https://github.com/user-attachments/assets/3ac565e8-233c-448f-945b-3929ea91f485" />](https://houseofwolves.atabook.org/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
+--
+
 [<img width="14" height="13" alt="IMG_8540" src="https://github.com/user-attachments/assets/a69b3f90-c95d-4af0-bd8d-39b5331b94b9" />](https://github.com/fearcult)
 
 <sub>${\color{yellow}\textsf{ata + main is above me!}}$</sub>
