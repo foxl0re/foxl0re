@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=foxl0re&label=𓄃&color=e3b746)
 
+[fearcult](https://github.com/fearcult)
+
 <img width="716" height="22" alt="IMG_8533" src="https://github.com/user-attachments/assets/01584847-2082-4ece-8e47-2ed5ddbf5d50" />
 
 
@@ -11,25 +13,7 @@ ${\color{yellow}\textsf{oh , ashes ashes, dust to dust!}}$
 ${\color{yellow}\textsf{the devil's after both of us!}}$
 <img width="716" height="22" alt="IMG_8533" src="https://github.com/user-attachments/assets/9aed3fd9-2fe0-49c8-b71f-ca1f78bbd70c" />
 
-[<img width="20" height="20" alt="IMG_8539" src="https://github.com/user-attachments/assets/3ac565e8-233c-448f-945b-3929ea91f485" />](https://houseofwolves.atabook.org/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
---
 
-[fearcult](https://github.com/fearcult)
 
-<sub>${\color{yellow}\textsf{ata + main is above me!}}$</sub>
 
-<!--
-**supremeleaderrrr/supremeleaderrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
